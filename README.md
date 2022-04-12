@@ -1,1 +1,1 @@
-# html-css_responsive_web_design_freecodecamp
+Here are my solutions for the final projects for the "Responsive Web Design" certificate course from FreeCodeCamp.
